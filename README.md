@@ -25,6 +25,10 @@ Designed for GitHub Pages. The intended repository is:
 `zohaibhaider-01-dev.github.io`
 
 ## Contact
-- GitHub: https://github.com/zohaibhaider-01-dev
-- LinkedIn: https://www.linkedin.com/in/zohaib-haider-0753863b5
-- Email: zohaibhaider0107@gmail.com
+- 🌐 Portfolio:
+https://zohaibhaider-01-dev.github.io/
+- 💻 GitHub: https://github.com/zohaibhaider-01-dev
+- 💼 LinkedIn: https://www.linkedin.com/in/zohaib-haider-0753863b5
+- 🤗 Hugging Face:
+https://huggingface.co/zohaibhaider01
+- 📧 Email: zohaibhaider0107@gmail.com
